@@ -1,5 +1,5 @@
 
-# Scrapping programs
+# Tic-Tac-Toe
 
 A great TicTacToe mini game that will keep you entertained for hours
 - app.rb 
