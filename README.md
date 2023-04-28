@@ -10,7 +10,7 @@ Run the app.rb and go discover a world of fun...
 
 - [@gregimbeau](https://github.com/gregimbeau/)
 - [@NicolasCHIRON](https://github.com/NicolasCHIRON/)
-- [@NicolasVALDELORGE](...)
+- [@NicolasVADELORGE](...)
 
 source 'https://rubygems.org'
 ruby '3.0.0'
